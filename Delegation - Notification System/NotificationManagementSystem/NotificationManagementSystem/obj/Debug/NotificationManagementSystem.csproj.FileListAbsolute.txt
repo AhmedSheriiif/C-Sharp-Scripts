@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\bin\Debug\NotificationManagementSystem.exe.config
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\bin\Debug\NotificationManagementSystem.exe
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\bin\Debug\NotificationManagementSystem.pdb
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.Form1.resources
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.Form2.resources
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.Form3.resources
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.exe
+C:\Users\ahmed\Desktop\Sessions\C#\Delegation\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.pdb
